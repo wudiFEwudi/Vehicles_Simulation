@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dancer
+comment1.params=direction
+comment1.target=Dancer(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=s
+comment3.target=void\ setSpeed(double)
+comment4.params=
+comment4.target=void\ knockDown()
+comment5.params=
+comment5.target=void\ stop()
+comment6.params=
+comment6.target=void\ removeMe()
+numComments=7

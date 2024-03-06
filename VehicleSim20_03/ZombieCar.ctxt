@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ZombieCar
+comment1.params=origin
+comment1.target=ZombieCar(VehicleSpawner)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ZombieCar\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ checkHitPedestrian()
+comment4.params=
+comment4.target=boolean\ changeLane()
+comment5.params=
+comment5.target=void\ removeMe()
+comment6.params=s
+comment6.target=void\ setspeed(double)
+numComments=7
